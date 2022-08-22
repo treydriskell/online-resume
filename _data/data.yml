@@ -1,25 +1,25 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Trey Driskell
+  title: Graduate Student
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: gdriskel@usc.edu
+  phone: +1(936)-648-5944
   wechat:
   whatsapp:
   telegram:
-  website: example.com
+  website: treydriskell.github.io
   medium:
   linkedin:
   googlescholar:
   researchgate:
-  github: github
+  github: treydriskell
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
