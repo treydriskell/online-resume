@@ -1,8 +1,8 @@
 basic:
   name: Trey Driskell
-  title: Graduate Student
+  title: Curriculum Vitae
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
